@@ -1,0 +1,33 @@
+_repo: The-Gate-of-AppreciationStudies-in-the-Relation-of-Art-to-Life_27183
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Noyes, Carleton Eldredge
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '32519'
+    url: http://www.gutenberg.org/2009/agents/32519
+description: ''
+gutenberg_issued: '2008-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27183'
+  lccn: '07015336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art appreciation'
+- !lcsh 'Art criticism'
+- !lcc 'N'
+- !lcsh 'Aesthetics'
+tableOfContents: The impulse to expression -- The attitude of response -- Technique
+  and the layman -- The value of the medium -- The background of art -- The service
+  of criticism -- Beauty and common life -- The arts of form -- Representation --
+  The personal estimate.
+title: 'The Gate of Appreciation: Studies in the Relation of Art to Life'
+url: http://www.gutenberg.org/ebooks/27183
